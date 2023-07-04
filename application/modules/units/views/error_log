@@ -1,0 +1,80 @@
+[15-May-2023 09:03:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php on line 6
+[09-Jun-2023 23:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php on line 6
+[14-Jun-2023 09:14:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/unitedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/unitedit.php on line 7
+[14-Jun-2023 11:46:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/categoryedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/categoryedit.php on line 6
+[15-Jun-2023 16:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/categoryedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/categoryedit.php on line 6
+[15-Jun-2023 16:08:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/units/views/categorylist.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/categorylist.php on line 7
+[15-Jun-2023 16:08:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/currencyedit.php on line 6
+[15-Jun-2023 16:08:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/units/views/currencylist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/currencylist.php on line 5
+[15-Jun-2023 16:08:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/units/views/destroyedlist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/destroyedlist.php on line 5
+[15-Jun-2023 16:08:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/ingredientedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/ingredientedit.php on line 7
+[15-Jun-2023 16:08:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/units/views/ingredientlist.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/ingredientlist.php on line 9
+[15-Jun-2023 16:08:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/supplieredit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/supplieredit.php on line 6
+[15-Jun-2023 16:09:28 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/units/views/supplierlist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/supplierlist.php on line 2
+[15-Jun-2023 16:10:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/supplierpay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/supplierpay.php on line 6
+[15-Jun-2023 16:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/unitedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/unitedit.php on line 7
+[15-Jun-2023 16:10:56 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/units/views/unitlist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/unitlist.php on line 2
+[16-Jun-2023 17:13:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/units/views/ingredientlist.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/ingredientlist.php on line 9
+[16-Jun-2023 19:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/units/views/unitlist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/unitlist.php on line 2
+[17-Jun-2023 18:48:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/ingredientedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/ingredientedit.php on line 7
+[20-Jun-2023 14:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/units/views/supplierpay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/units/views/supplierpay.php on line 6

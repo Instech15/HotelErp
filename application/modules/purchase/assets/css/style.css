@@ -1,0 +1,31 @@
+.sectionfull{width:100%; float:left;}
+.margin_20px{
+    margin: 20px;
+}
+.margin_left_2px{
+    margin-left:2px;
+}
+.margin_top_10px{
+    margin-top: 10px;
+}
+.text_align_right{
+    text-align: right;
+}
+.width_200px{
+    width: 200px;
+}
+.text_align{
+    text-align:center;
+}
+.d_none{
+    display:none;
+}
+.padding_right_5px{
+    padding-right: 5px;
+}
+.padding_0_5px{
+    padding:0 5px;
+}
+.text_align_f_14px{
+    text-align:right;font-size:14px !important;
+}

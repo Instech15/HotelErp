@@ -1,0 +1,6 @@
+[12-Jun-2023 05:25:41 America/New_York] PHP Notice:  Undefined variable: payment_method in /home/bricssvi/public_html/application/modules/paystack/controllers/gateway.php on line 2
+[12-Jun-2023 05:28:34 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/bricssvi/public_html/application/modules/paystack/controllers/payment.php on line 2
+[12-Jun-2023 05:28:34 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/paystack/controllers/payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/paystack/controllers/payment.php on line 2

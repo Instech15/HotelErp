@@ -1,0 +1,58 @@
+.autoupdate-blink blink{font-size: 32px;margin-bottom: 36px;display: block;}
+.autoupdate-l-version{font-size:18px;line-height: 28px;}
+
+
+.autoupdate_line_height_font{
+    font-size:18px;    
+    line-height: 28px;
+}
+.autoupdate_pos_bg_color{
+   position: absolute;
+   background: #000;
+   color: #fff;
+   width: 91%;
+}
+
+.autoupdate_line_font_18{
+	font-size:18px;    
+	line-height: 28px;
+}
+.autoupdate_line_font_doted{
+	color:#8a4246;
+	background-color:#ffedb6;
+	border: 2px dotted #ffd479;
+	border-radius:5px;
+	padding:15px;
+	margin-bottom:20px;
+}
+blink {
+    -webkit-animation: 2s linear infinite condemned_blink_effect; // for android
+    animation: 2s linear infinite condemned_blink_effect;
+}
+@-webkit-keyframes condemned_blink_effect { // for android
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+@keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+
+.autoupdate_d_none{
+  display:none;
+}
+

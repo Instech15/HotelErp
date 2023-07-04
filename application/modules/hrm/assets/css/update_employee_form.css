@@ -1,0 +1,16 @@
+nav.nav-tabs li:not(.active) a {
+    pointer-events:none;
+    background-color: #2554C7;
+    color:white;
+    }
+    .nav.nav-tabs li a (.active){
+    background-color: red;
+    color:white;
+    }
+    /* can info form */
+    
+    .nav.nav-tabs li:not(.active) a {
+        pointer-events:none;
+        background-color: #2554C7;
+        color:white;
+    }

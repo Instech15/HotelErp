@@ -1,0 +1,75 @@
+.width_increase {
+    width: 746.33px !important;
+  }
+  .red-message {
+    color: red;
+}
+
+.clear {
+    clear: both;
+    margin-top: 20px;
+}
+
+#searchResult {
+    list-style: none;
+    padding: 0px;
+    width: auto;
+    position: relative;
+    margin: 0;
+}
+
+#searchResult li {
+    background: lavender;
+    padding: 4px;
+    margin-bottom: 1px;
+}
+
+#searchResult li:nth-child(even) {
+    background: cadetblue;
+    color: white;
+}
+
+#searchResult li:hover {
+    cursor: pointer;
+}
+
+.form-select {
+    background-position: right .75rem center;
+}
+
+.icon-addon.addon-md .form-select {
+    padding: 0.475rem 2.25rem 0.475rem 2rem;
+}
+
+.icon-addon .fas {
+    position: absolute;
+    z-index: 3;
+    font-size: 15px;
+    top: 50%;
+    left: 8px;
+    color: #83868f;
+    margin: 0;
+    transform: translate(0, -50%);
+    text-align: center;
+    width: 23px;
+}
+
+.icon-addon .bootstrap-select.form-select {
+    padding: 0.475rem 2.25rem 0.475rem 2rem;
+}
+
+.bs-searchbox .form-control {
+    padding: 0.25rem 0.5rem !important;
+}
+.ex-room {
+    width : 100px;
+}
+.res-v-allign{
+    vertical-align: middle;
+}
+.res-padding{
+    padding: 0px 5px;
+}
+.res-allign-padding{
+    text-align: right;padding: 0px 5px;
+}

@@ -1,0 +1,48 @@
+[16-May-2023 04:16:03 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php on line 2
+[09-Jun-2023 10:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/purchase/views/purchasereturnform.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchasereturnform.php on line 3
+[13-Jun-2023 09:48:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_hidden() in /home/bricssvi/public_html/application/modules/purchase/views/addproduction.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/addproduction.php on line 6
+[13-Jun-2023 09:50:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/purchase/views/addpurchase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/addpurchase.php on line 3
+[13-Jun-2023 09:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/ajaxitems.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/ajaxitems.php on line 1
+[13-Jun-2023 10:18:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php on line 2
+[13-Jun-2023 11:40:17 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/purchaselist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchaselist.php on line 2
+[13-Jun-2023 16:35:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/purchase/views/purchaseedit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchaseedit.php on line 5
+[15-Jun-2023 16:07:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/purchase/views/purchasereturnform.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchasereturnform.php on line 3
+[16-Jun-2023 17:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/purchaselist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchaselist.php on line 2
+[16-Jun-2023 18:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/invoicelist.php on line 2
+[18-Jun-2023 16:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/purchase/views/purchaseedit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/purchase/views/purchaseedit.php on line 5

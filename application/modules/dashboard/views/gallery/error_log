@@ -1,0 +1,24 @@
+[19-May-2023 08:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php on line 5
+[19-May-2023 08:43:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php on line 5
+[21-May-2023 13:00:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php on line 5
+[29-May-2023 15:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php on line 5
+[08-Jun-2023 01:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery.php on line 5
+[08-Jun-2023 10:18:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/gallery/gallery_edit.php on line 1

@@ -1,0 +1,125 @@
+.hotel-image {
+    display: flex;
+    overflow: hidden;
+    height: 312px;
+    border-radius: 0.25rem;
+}
+
+.image-inner {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    overflow: auto;
+}
+
+.overlay-red {
+    background-color: #910303b3;
+    border-radius: 0.25rem;
+    top: 14px;
+    align-items: center;
+    height: 284px;
+    display: grid;
+    width: 90%;
+    overflow: auto;
+}
+
+.overlay-black {
+    background-color: #070807ab;
+    border-radius: 0.25rem;
+    top: 14px;
+    align-items: center;
+    height: 284px;
+    display: grid;
+    width: 90%;
+    overflow: auto;
+}
+
+.overlay-green {
+    background-color: #256e03bf;
+    border-radius: 0.25rem;
+    top: 14px;
+    align-items: center;
+    height: 284px;
+    display: grid;
+    width: 90%;
+    overflow: auto;
+}
+.scroll-bar {
+    height: 284px;
+    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
+}
+
+.scroll-bar:active,
+.scroll-bar:focus,
+.scroll-bar:hover,
+.scroll-bar.scroll {
+    overflow-y: auto;
+}
+
+.scroll-bar::-webkit-scrollbar {
+    width: 7px;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #fff;
+    -webkit-box-shadow: inset 0 0 6px rgba(90, 90, 90, 0.7);
+}
+.room-status {
+    background: #f1f1f1 !important;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 0.25rem;
+}
+
+.countdown-text {
+    background: -webkit-linear-gradient(left, #0fffe9 0%, #37ffff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.bookingid-bg {
+    background-image: url(../img/hotel-room1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+}
+
+.bookingid-overlay {
+    background-color: #ffffff7d;
+}
+
+.vl {
+    border-left: 6px solid #37a000;
+    height: 30px;
+    margin-right: 8px;
+    margin-left: 10px;
+}
+
+.bg-ash {
+    background-color: #efefef;
+}
+
+.w-53 {
+    width: 53% !important
+}
+
+@media (min-width:1600px) {
+    .col-xxl-2 {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%
+    }
+}
+
+.problem-item {
+    overflow-y: auto;
+    height: 80px;
+}

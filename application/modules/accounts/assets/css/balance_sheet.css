@@ -1,0 +1,31 @@
+.balancesheet_head {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.paddingleft10px {
+    padding-left: 10px;
+}
+
+.cashflowparticular {
+    padding-left: 10px;
+    border: 1px solid #000;
+}
+
+.cashflowamount {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #000;
+}
+
+.cashflowamnt {
+    padding-right: 10px;
+    border-left: solid 1px #000;
+    border-right: solid 1px #000;
+}
+.bsp_10{
+    padding-right: 10px;
+}
+.bsb_2px{
+    border: solid 2px #000;
+}

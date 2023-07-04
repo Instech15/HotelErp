@@ -1,0 +1,173 @@
+.voucher{
+    font:'Times New Roman', Times, serif; font-size:20px;
+}
+.t_align_left{
+    text-align: left;
+}
+.report{
+    font-family:'Arial';
+    margin-right: 12.7%;
+}
+.height{
+    line-height:120%;
+}
+.tbl_head{
+    background:#F9F9F2
+}
+.result{
+    font-family:'Arial';
+}
+.tbl_data{
+    color:#FFF;
+}
+.print{
+    margin: 20px;
+}
+.print_new{
+    border:none; background:none; cursor: pointer; width:80px; height:20px;
+}
+.print_back{
+    border:none; background:none; cursor: pointer; width:80px; height:20px;
+}
+.hide{
+    display:none;
+}
+.back{
+    border:none; background:none; cursor: pointer; width:80px; height:20px;
+}
+.card_body{
+    width:1000px; float:left;
+}
+.statement{
+    margin: 0;
+}
+.dtpfrom{
+    padding-right:10px;
+}
+.particulars{
+    padding-left:10px; border:1px solid #000;
+}
+.aidollar{
+    padding-left:10px; padding-right:10px;  border:1px solid #000;
+}
+.equivalent{
+    padding-left:10px;
+}
+.headname{
+    padding-right:10px; border-left: solid 1px #000; border-right:solid 1px #000;
+}
+.headnameonly{
+    padding-right:10px; border-top: solid 1px #000; border-bottom: solid 1px #000
+}
+.headnamebefore{
+    border-top: solid 1px #000;
+}
+.cash_open{
+    padding-left:10px;padding-right:10px;
+}
+.cash_flow{
+    padding-left:10px;text-decoration:underline;
+}
+.mt_50{
+    margin-top: 50px;
+}
+.a_sign{
+    text-decoration:overline;
+}
+/* Cash flow report search pdf */
+.padding_5px{
+    padding: 5px;
+}
+.margin_0px{
+    margin: 0;
+}
+.padding_left_10px{
+    padding-left:10px;
+}
+.p_left_b_1px{
+    padding-left:10px; border:1px solid #000;
+}
+.p_left_p_right_b_1px{
+    padding-left:10px; padding-right:10px;  border:1px solid #000;
+}
+.p_left_b_left_b_1px{
+    padding-right:10px; border-left: solid 1px #000; border-right:solid 1px #000;
+}
+.b_top_1px{
+    border-top: solid 1px #000;
+}
+.p_left_10px_p_right_10px{
+    padding-left:10px;padding-right:10px;
+}
+.p_right_b_top_b_bottom{
+    padding-right:10px; border-top: solid 1px #000; border-bottom: solid 1px #000;
+}
+.p_left_td_underline{
+    padding-left:10px;text-decoration:underline;
+}
+.p_right_10px{
+    padding-right:10px;
+}
+/* contra voucher */
+.width_200px{
+    width: 200px;
+}
+.t_right{
+    text-align: right;
+}
+.mt_10px{
+    margin-top: 10px;
+}
+.margin_5_5px{
+    margin:5px 5px;
+}
+/* profit_loss */
+.f_size_f_weight_b_left_right_top{
+    font-size:20px; font-weight:bold; border-right:solid 1px #000; border-left:solid 1px #000; border-top:solid 1px #000;
+}
+.b_left_b_right_f_size{
+    border-left:solid 1px #000; border-top:solid 1px #000; font-size:0
+}
+.b_left_right_top{
+    border-left:solid 1px #000;  border-right:solid 1px #000; border-top:solid 1px #000;
+}
+.f_size_20{
+    font-size:20px;
+}
+.b_style_b_letft_right_top{
+    border-style: double;
+    border-left: none; border-right:none; border-top:none;
+}
+.b_left_top_bottom{
+    border-left:solid 1px #000; border-bottom:solid 1px #000; border-top:solid 1px #000;
+}
+.b_solid{
+    border:solid 1px #000;
+}
+.f_size_b_left_top{
+    font-size:18px; border-left:solid 1px #000; border-top:solid 1px #000;
+}
+.f_size_b_left_right_top{
+    font-size:18px; border-left:solid 1px #000; border-right:solid 1px #000;border-top:solid 1px #000;
+}
+/* tree view  */
+.fa-folder{
+    color:#D4AC0D;
+ }
+ .fa-folder-open-o{
+    color:#D4AC0D;
+ }
+ /* trial balance */
+ .b_left_top{
+    border-left: solid 1px #000; border-top: solid 1px #000;
+ }
+ .b_left_right_bottom_top{
+    border-left: solid 1px #000; border-bottom: solid 1px #000; border-right: solid 1px #000; border-top: solid 1px #000;
+ }
+ .f_size_18{
+    font-size:18px;
+ }
+ 
+ .f_size_13px{
+    font-size:13px;
+ }

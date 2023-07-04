@@ -1,0 +1,93 @@
+p {
+    min-height: 120px;
+}
+
+.input-group {
+    justify-content: flex-end;
+    margin-bottom: .5em !important;
+}
+
+.btn {
+    border-radius: 0;
+    margin-right: .5em;
+    color: #fff !important;
+}
+
+.nav-pills .nav-link {
+    margin-left: 0px;
+    color: #a5a9ad;
+}
+
+
+
+.custom_tablist {
+    padding: 10px 0px;
+}
+
+.nav-pills .nav-link {
+    color: #525252;
+    border-right: 1px solid #e8e8e8;
+    border-left: 1px solid #e8e8e8;
+    border-top: 1px solid #e8e8e8;
+    border-radius: 0;
+}
+
+.nav-pills .nav-item:last-child .nav-link {
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #37a000;
+    background-color: #fff;
+    box-shadow: none;
+}
+
+.nav-pills .nav-link.active {
+    padding: 8px 18px;
+}
+
+.custom_btn {
+    width: 40px;
+    padding: 2px;
+}
+
+#myTab {
+    display: inline-block;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.appslogo_preview {
+    width: 20%;
+}
+
+.w-45 {
+    width: 45px;
+}
+
+.f-s-12 {
+    font-size: 12px;
+}
+
+.active-inactive-cls {
+    cursor: pointer;
+    color: #fff;
+    width: 24px !important;
+    padding: 0
+}
+
+.m-l-10 {
+    margin-left: 10px;
+}
+
+.card-header {
+    padding: 1.25rem 1.5rem;
+    background-color: #fff;
+    border-bottom: 1px solid #eff2f7;
+}
+ .nav{
+    flex-wrap: nowrap;
+ }

@@ -1,0 +1,56 @@
+[19-May-2023 12:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php on line 6
+[19-May-2023 12:35:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php on line 4
+[19-May-2023 12:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php on line 6
+[19-May-2023 12:35:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php on line 6
+[19-May-2023 12:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php on line 4
+[19-May-2023 12:37:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/new_message.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/new_message.php on line 4
+[19-May-2023 12:37:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent_information.php on line 4
+[19-May-2023 12:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent.php on line 4
+[23-May-2023 17:56:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php on line 4
+[27-May-2023 23:24:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php on line 6
+[30-May-2023 23:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php on line 4
+[07-Jun-2023 23:00:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox_information.php on line 4
+[09-Jun-2023 09:02:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent_information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/sent_information.php on line 4
+[11-Jun-2023 05:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/messages/inbox.php on line 6

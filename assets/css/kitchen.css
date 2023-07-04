@@ -1,0 +1,257 @@
+.lh-30 {
+    line-height: 30px;
+}
+
+.w-smd{
+    width: 100px;
+}
+
+.kitchen-tab {
+    background: #fff;
+    padding: 0 15px;
+}
+
+.kitchen-tab .tab-content .panel-body {
+    padding: 20px 0;
+    margin: 0 -15px;
+}
+
+.grid-item-content {
+    min-height: 100px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.grid-item-content--height2 {
+    min-height: 200px;
+}
+
+.item_inner {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.food_item.pending .food_item_top {
+    background-color: #e64545;
+}
+
+.food_item.pending .cooking_time {
+    background: #c73131;
+}
+
+
+.food_item_top {
+    background-color: #54af26;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.kitchen-tab .nav-pills > li > a {
+    border: 1px solid #54af26;
+    color: #54af26;
+    min-width: 100px;
+    text-align: center;
+}
+
+.kitchen-tab .nav-pills > li > a:hover,
+.kitchen-tab .nav-pills > li > a:focus,
+.kitchen-tab .nav-pills > li.active > a:focus,
+.kitchen-tab .nav-pills > li.active > a {
+    background: #54af26;
+    color: #fff;
+}
+
+.kitchen-tab .nav-pills > li + li {
+    margin-left: 8px;
+}
+
+.kitchen-tab .item_inner .kf_info {
+    color: #fff;
+    margin: 0;
+    line-height: 30px;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.kitchen-tab .cooking_time {
+    padding: 8px 30px;
+    display: block;
+    color: #fff;
+    background: #449b18;
+}
+
+.kitchen-tab .food_select {
+    padding: 25px 30px;
+}
+
+.kitchen-tab .food_select .btn-info {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.kitchen-tab .justify-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: center;
+}
+
+.kitchen-tab .item-label {
+    margin-bottom: 0;
+    font-size: 17px;
+}
+
+.kitchen-tab .single_item {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 14px;
+}
+
+.kitchen-tab .single_item:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.kitchen-tab .single_item .quantity {
+    margin: 0;
+    font-size: 24px;
+}
+
+/*Checkebox CSS*/
+
+
+.kitchen-tab input[type='checkbox'] {
+    height: 0;
+    width: 0;
+    position: absolute;
+}
+
+.kitchen-tab input[type='checkbox'] + label {
+    position: relative;
+    display: flex;
+    align-items: center;
+    transition: color 250ms cubic-bezier(.4, .0, .23, 1);
+}
+
+.kitchen-tab input[type='checkbox'] + label > ins {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    left: 2em;
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    text-decoration: none;
+    transition: height 300ms cubic-bezier(.4, .0, .23, 1);
+}
+
+.kitchen-tab input[type='checkbox'] + label > ins > i {
+    position: absolute;
+    bottom: 0;
+    font-style: normal;
+    color: #4FC3F7;
+}
+
+.kitchen-tab input[type='checkbox'] + label > .radio-shape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1em;
+    width: 20px;
+    height: 20px;
+    background: transparent;
+    border: 2px solid #b7b7b7;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 250ms cubic-bezier(.4, .0, .23, 1);
+}
+
+.kitchen-tab input[type='checkbox'] + label > span i{
+    transform: translateY(-25px);
+    transition-duration: 0.3s;
+    transition-delay: 0.2s;
+    opacity: 0;
+    color: #fff;
+    font-size: 14px;
+}
+
+.kitchen-tab input[type='checkbox'] + label:hover > span,
+.kitchen-tab input[type='checkbox']:focus + label > span {
+    background: rgba(255, 255, 255, .1);
+}
+
+.kitchen-tab input[type='checkbox']:checked + label > span {
+    border: 10px solid #54af26;
+}
+
+.kitchen-tab input[type='checkbox']:checked + label > span i{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.kitchen-tab input[type='checkbox']:checked + label > span:before {
+    content: "";
+    position: absolute;
+    top: .6em;
+    left: .2em;
+    border-right: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    transform: rotate(45deg);
+    transform-origin: 0% 100%;
+    animation: checkbox-check 125ms 250ms cubic-bezier(.4, .0, .23, 1) forwards;
+}
+@media (max-width: 1199px) and (min-width: 992px){
+    .food_select .align-center.justify-between{
+        flex-wrap: wrap;
+    }
+    .food_select .align-center.justify-between .checkAll{
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 1200px){
+    .col-xlg-4{
+        width: 33.3333333333%;
+    }
+}
+
+@media (min-width: 1550px){
+    .col-xlg-4{
+        width: 25%;
+    }
+}
+
+@media (max-width: 991px){
+    .w-smd{
+        width: 90px;
+    }
+}
+
+@media (max-width: 767px){    
+    .food_select .align-center.justify-between{
+        flex-wrap: wrap;
+    }
+    .food_select .align-center.justify-between .checkAll{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 600px){    
+    .col-vxs-12{
+        width: 100%;
+    }
+}

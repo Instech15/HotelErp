@@ -1,0 +1,126 @@
+.SumoSelect {
+    width: 100%;
+}
+
+.SumoSelect>.CaptionCont>span.placeholder {
+    font-style: normal;
+}
+
+.color-red {
+    color: red;
+}
+
+.rtype {
+    width: 10%;
+}
+.tr-background{
+    background-color: #f7f7f7;
+}
+.invp-1{
+    max-width: 791px;background: #fff;padding: 48px;margin-right: auto;margin-left: auto;font-size: 14px;color: #5b5b5b;position: relative;font-family: 'Lato', sans-serif;border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#6658ea 0,#6658ea 80%,#fcc 0) 1;border-top: 4px solid;
+}
+.invp-2{
+    position: absolute;top: 20px;right: 20px;color: #28a745;font-size:20px;
+}
+.invp-3{
+    text-align: center; margin-bottom: 50px;
+}
+.invp-img{
+    height: 38px;
+}
+.invp-4{
+    margin:10px 0;color: #000;font-weight:500;font-size: 1.5rem;
+}
+.invp-5{
+    color: #9a9a9a; margin: 0;
+}
+.invp-6{
+    margin: 0;
+}
+.invp-7{
+    display: flex; justify-content: space-between;margin-bottom: 1rem;
+}
+.invp-8{
+    color:#5b5b5b;text-transform:uppercase;font-weight:600;font-size:12px;margin-bottom:10px;
+}
+.invp-9{
+    color: #000;
+}
+.invp-10{
+    color: #000; font-weight: 700;
+}
+.invp-11{
+    text-align: right;
+}
+.invp-12{
+    font-style: normal;
+}
+.invp-13{
+    font-size: 0.781rem;border: 1px solid #000;border-collapse: collapse;color: #212529;width: 100%;margin-bottom: 1rem;
+}
+.invp-14{
+    padding: .3rem;border: 1px solid #000;
+}
+.invp-15{
+    padding: .3rem;border: 1px solid #000;text-align: center
+}
+.invp-16{
+    padding: 0;border: 1px solid #000;
+}
+.invp-17{
+    font-size: 0.781rem;border-collapse: collapse;color: #212529;width: 100%;
+}
+.invp-18{
+    padding: .3rem;
+}
+.invp-19{
+    padding: .3rem;border: 1px solid #000;border-bottom: 0;border-left: 0;
+}
+.invp-20{
+    padding: .3rem;border: 1px solid #000;border-bottom: 0;
+}
+.invp-21{
+    padding: .3rem;border: 1px solid #000;border-bottom: 0;border-right: 0;
+}
+.invp-22{
+    float: left; width: 50%;
+}
+.invp-23{
+    table-layout: fixed; width: 80%;
+}
+.invp-24{
+    width: 100%;font-size: 14px;
+}
+.invp-25{
+    color: #646a6e; line-height: 22px; vertical-align: top; text-align:right;
+}
+.invp-26{
+    color: #646a6e; line-height: 22px; vertical-align: top; text-align:right; white-space:nowrap;
+}
+.invp-27{
+    color: #b0b0b0; line-height: 22px; vertical-align: top; text-align:right;
+}
+.invp-28{
+    color: #000; line-height: 22px; vertical-align: top; text-align:right;
+}
+.invp-29{
+    text-align: center;font-size: large; font-weight: 500; color: #28a745;
+}
+.invp-30{
+    margin-top: 30px;
+}
+.invp-31{
+    color:#000000;text-transform:uppercase;font-weight:600;font-size:12px;margin-bottom:10px;
+}
+.invp-32{
+    padding: 0 0 0 12px;list-style: decimal;margin: invp-6 #5b5b5b;
+}
+.invp-33{
+    margin-bottom: 10px;
+}
+.invp-34{
+    display: flex;justify-content: space-between;margin-top: 5rem;
+}
+.invp-35{
+    color:#000; border-top: 1px solid #000;
+}

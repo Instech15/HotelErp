@@ -1,0 +1,52 @@
+[12-Jun-2023 05:42:52 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/checkinreservation.php on line 1
+[12-Jun-2023 05:42:52 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/room_reservation/views/checkinreservation.php on line 1
+[12-Jun-2023 05:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/room_reservation/views/checkinreservation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/checkinreservation.php on line 5
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Undefined variable: bookinfo in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 2
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Trying to get property 'checkindate' of non-object in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 2
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Undefined variable: bookinfo in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 3
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Trying to get property 'checkoutdate' of non-object in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 3
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Undefined variable: bookinfo in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 6
+[12-Jun-2023 23:53:05 America/New_York] PHP Notice:  Trying to get property 'bookingstatus' of non-object in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 6
+[12-Jun-2023 23:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/bookindetailsprintpdf.php on line 15
+[14-Jun-2023 10:13:42 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/restaurantbillprint.php on line 1
+[14-Jun-2023 10:13:42 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/restaurantbillprint.php on line 2
+[14-Jun-2023 10:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_reservation/views/restaurantbillprint.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/restaurantbillprint.php on line 4
+[15-Jun-2023 11:54:35 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 1
+[15-Jun-2023 11:54:35 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 1
+[15-Jun-2023 11:54:35 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 2
+[15-Jun-2023 11:54:35 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 2
+[15-Jun-2023 11:54:35 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 3
+[15-Jun-2023 11:54:35 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 3
+[15-Jun-2023 11:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/checkoutreservation.php on line 7
+[16-Jun-2023 08:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/room_reservation/views/cancelreservation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/cancelreservation.php on line 6
+[16-Jun-2023 22:15:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/room_reservation/views/customerdetails.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/customerdetails.php on line 4
+[18-Jun-2023 17:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/room_reservation/views/payments.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/payments.php on line 6
+[18-Jun-2023 23:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/room_reservation/views/reservationdetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/reservationdetail.php on line 7
+[21-Jun-2023 00:28:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/room_reservation/views/reservationedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_reservation/views/reservationedit.php on line 6

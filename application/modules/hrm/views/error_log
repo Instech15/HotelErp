@@ -1,0 +1,186 @@
+[15-May-2023 09:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/interview_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/interview_view.php on line 7
+[15-May-2023 09:13:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/emp_performance_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/emp_performance_form.php on line 6
+[15-May-2023 09:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/sal_genview.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/sal_genview.php on line 7
+[15-May-2023 12:43:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/other_leave_application_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/other_leave_application_form.php on line 6
+[08-Jun-2023 15:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/sal_genview.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/sal_genview.php on line 7
+[10-Jun-2023 02:43:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/salary_generate_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/salary_generate_form.php on line 5
+[10-Jun-2023 10:43:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/selection_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/selection_view.php on line 7
+[10-Jun-2023 12:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/loan_datailsView.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/loan_datailsView.php on line 6
+[10-Jun-2023 16:55:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_salarygenerate_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_salarygenerate_form.php on line 9
+[11-Jun-2023 00:09:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_wkleave_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_wkleave_form.php on line 5
+[11-Jun-2023 03:29:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/ln_report.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/ln_report.php on line 5
+[11-Jun-2023 08:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/attendance_list.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/attendance_list.php on line 39
+[11-Jun-2023 12:40:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_dept_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_dept_form.php on line 5
+[12-Jun-2023 04:56:36 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/hrm/views/employ_form.php on line 1
+[12-Jun-2023 04:56:36 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/hrm/views/employ_form.php on line 1
+[12-Jun-2023 04:56:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/employ_form.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/employ_form.php on line 3
+[12-Jun-2023 05:30:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/loan_report.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/loan_report.php on line 13
+[12-Jun-2023 08:36:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/emp_salarysetup_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/emp_salarysetup_form.php on line 6
+[12-Jun-2023 12:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/salarysetup_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/salarysetup_form.php on line 5
+[13-Jun-2023 08:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/other_leave_application_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/other_leave_application_form.php on line 6
+[13-Jun-2023 15:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/dept_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/dept_form.php on line 6
+[13-Jun-2023 18:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/canedu_view.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/canedu_view.php on line 12
+[13-Jun-2023 20:37:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/award_form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/award_form.php on line 7
+[14-Jun-2023 02:01:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/award_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/award_view.php on line 7
+[14-Jun-2023 17:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_salarysetup_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_salarysetup_form.php on line 5
+[15-Jun-2023 11:47:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_canedu_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_canedu_form.php on line 5
+[15-Jun-2023 14:19:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_workexperience_form.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_workexperience_form.php on line 6
+[15-Jun-2023 23:32:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/emppay_sal_setupview.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/emppay_sal_setupview.php on line 6
+[16-Jun-2023 07:50:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/selection_form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/selection_form.php on line 7
+[16-Jun-2023 21:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_employee_position_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_employee_position_form.php on line 5
+[16-Jun-2023 23:22:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_employee_position_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_employee_position_form.php on line 5
+[17-Jun-2023 00:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/attn_Id_report.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/attn_Id_report.php on line 5
+[17-Jun-2023 10:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/application_view.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/application_view.php on line 6
+[17-Jun-2023 21:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_holiday_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_holiday_form.php on line 5
+[18-Jun-2023 01:41:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/update_award_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_award_form.php on line 5
+[18-Jun-2023 07:04:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/canInfo_form.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/canInfo_form.php on line 2
+[18-Jun-2023 14:19:46 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/hrm/views/update_canIfo.php on line 1
+[18-Jun-2023 14:19:46 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/hrm/views/update_canIfo.php on line 1
+[18-Jun-2023 14:19:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/update_canIfo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_canIfo.php on line 5
+[18-Jun-2023 18:32:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/update_position.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/update_position.php on line 5
+[18-Jun-2023 21:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/emppayroll_salarysetup_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/emppayroll_salarysetup_form.php on line 5
+[18-Jun-2023 23:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/shortlist_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/shortlist_view.php on line 7
+[19-Jun-2023 06:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/hrm/views/resumepdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/resumepdf.php on line 7
+[19-Jun-2023 07:07:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/statelist.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/statelist.php on line 1
+[19-Jun-2023 18:42:10 America/New_York] PHP Notice:  Undefined variable: query1 in /home/bricssvi/public_html/application/modules/hrm/views/attendance_detail.php on line 2
+[19-Jun-2023 18:42:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/bricssvi/public_html/application/modules/hrm/views/attendance_detail.php on line 2
+[19-Jun-2023 18:42:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/attendance_detail.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/attendance_detail.php on line 11
+[19-Jun-2023 22:31:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/Date_time_report.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/Date_time_report.php on line 18
+[20-Jun-2023 12:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/hrm/views/can_workexperience_form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/can_workexperience_form.php on line 7
+[20-Jun-2023 13:42:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/department_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/department_view.php on line 7
+[20-Jun-2023 14:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/hrm/views/positionview.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/hrm/views/positionview.php on line 7

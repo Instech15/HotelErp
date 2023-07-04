@@ -1,0 +1,21 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+
+@media print {
+    @page {
+        size: auto;
+    }
+
+    body {
+        min-width: 100% !important;
+    }
+}

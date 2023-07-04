@@ -1,0 +1,24 @@
+[07-Jun-2023 22:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/payment_setting/views/currencyedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/currencyedit.php on line 7
+[07-Jun-2023 22:45:13 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/payment_setting/views/currencylist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/currencylist.php on line 2
+[07-Jun-2023 22:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentedit.php on line 7
+[07-Jun-2023 22:54:24 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentlist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentlist.php on line 2
+[07-Jun-2023 23:01:25 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentsetup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentsetup.php on line 2
+[07-Jun-2023 23:15:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentsetupedit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/payment_setting/views/paymentsetupedit.php on line 7

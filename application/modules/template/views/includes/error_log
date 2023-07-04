@@ -1,0 +1,20 @@
+[06-Jun-2023 14:12:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/template/views/includes/footer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/template/views/includes/footer.php on line 3
+[06-Jun-2023 14:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function html_escape() in /home/bricssvi/public_html/application/modules/template/views/includes/head.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/template/views/includes/head.php on line 5
+[06-Jun-2023 14:14:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/template/views/includes/header.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/template/views/includes/header.php on line 1
+[06-Jun-2023 14:18:38 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/template/views/includes/messages.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/template/views/includes/messages.php on line 1
+[06-Jun-2023 14:26:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/template/views/includes/sidebar.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/template/views/includes/sidebar.php on line 2

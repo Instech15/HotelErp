@@ -1,0 +1,112 @@
+[19-May-2023 12:35:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[19-May-2023 12:35:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[19-May-2023 12:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[19-May-2023 12:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgallerytitle_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgallerytitle_edit.php on line 1
+[19-May-2023 12:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[19-May-2023 12:35:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php on line 1
+[19-May-2023 12:35:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php on line 1
+[19-May-2023 12:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[19-May-2023 12:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[19-May-2023 12:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_edit.php on line 1
+[19-May-2023 12:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[19-May-2023 12:37:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[19-May-2023 12:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php on line 1
+[19-May-2023 15:37:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[19-May-2023 18:41:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgallerytitle_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgallerytitle_edit.php on line 1
+[19-May-2023 18:45:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[19-May-2023 18:48:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php on line 1
+[22-May-2023 05:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[22-May-2023 08:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[23-May-2023 19:59:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[26-May-2023 02:48:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[26-May-2023 20:07:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[30-May-2023 13:06:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[01-Jun-2023 05:44:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[04-Jun-2023 15:01:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teammember_edit.php on line 1
+[06-Jun-2023 10:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_members.php on line 5
+[15-Jun-2023 19:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/team_gallery.php on line 5
+[17-Jun-2023 11:37:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/dashboard/views/team/teamgalleryimage_edit.php on line 1

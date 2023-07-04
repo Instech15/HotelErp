@@ -1,0 +1,162 @@
+[15-May-2023 09:04:44 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[15-May-2023 09:04:44 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[15-May-2023 09:04:44 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[15-May-2023 09:04:44 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[15-May-2023 09:05:27 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[15-May-2023 09:05:27 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[15-May-2023 18:37:18 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:37:18 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:37:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 6
+[15-May-2023 18:37:18 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[15-May-2023 18:37:18 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[15-May-2023 18:37:30 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 18:37:30 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 18:37:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[15-May-2023 18:37:38 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:37:38 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:37:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 6
+[15-May-2023 18:38:01 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 18:38:01 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 18:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[15-May-2023 18:53:20 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:53:20 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[15-May-2023 18:53:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 6
+[15-May-2023 18:54:29 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[15-May-2023 18:54:29 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[15-May-2023 18:54:37 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[15-May-2023 18:54:37 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[15-May-2023 18:54:37 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[15-May-2023 18:54:37 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[15-May-2023 18:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 8
+[15-May-2023 19:07:51 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[15-May-2023 19:07:51 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[15-May-2023 19:07:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 81
+[15-May-2023 19:12:41 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[15-May-2023 19:12:41 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[15-May-2023 19:12:41 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[15-May-2023 19:12:41 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[15-May-2023 19:20:14 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[15-May-2023 19:20:14 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[15-May-2023 20:32:01 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 20:32:01 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[15-May-2023 20:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[18-May-2023 13:44:16 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[18-May-2023 13:44:16 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[18-May-2023 13:44:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[19-May-2023 09:53:03 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[19-May-2023 09:53:03 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[19-May-2023 10:17:15 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[19-May-2023 10:17:15 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[25-May-2023 00:58:31 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[25-May-2023 00:58:31 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[25-May-2023 00:58:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[03-Jun-2023 02:52:49 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[03-Jun-2023 02:52:49 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[03-Jun-2023 02:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[09-Jun-2023 06:25:38 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[09-Jun-2023 06:25:38 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[09-Jun-2023 06:25:38 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[09-Jun-2023 06:25:38 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[09-Jun-2023 06:25:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 8
+[11-Jun-2023 08:46:21 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[11-Jun-2023 08:46:21 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 1
+[11-Jun-2023 08:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/bookindetails.php on line 6
+[11-Jun-2023 08:49:57 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[11-Jun-2023 08:49:57 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[11-Jun-2023 08:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[11-Jun-2023 08:54:16 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[11-Jun-2023 08:54:16 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[11-Jun-2023 08:54:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 81
+[11-Jun-2023 09:03:10 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[11-Jun-2023 09:03:10 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[11-Jun-2023 21:36:46 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[11-Jun-2023 21:36:46 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 1
+[11-Jun-2023 21:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getbookingreport.php on line 92
+[12-Jun-2023 05:40:56 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[12-Jun-2023 05:40:56 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[12-Jun-2023 05:40:56 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[12-Jun-2023 05:40:56 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[12-Jun-2023 05:40:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 8
+[12-Jun-2023 05:43:07 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[12-Jun-2023 05:43:07 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[12-Jun-2023 05:47:33 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[12-Jun-2023 05:47:33 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[12-Jun-2023 05:47:33 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[12-Jun-2023 05:47:33 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[12-Jun-2023 17:53:24 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[12-Jun-2023 17:53:24 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 1
+[12-Jun-2023 17:53:24 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[12-Jun-2023 17:53:24 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 2
+[12-Jun-2023 17:53:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/prechasereport.php on line 8
+[12-Jun-2023 18:04:02 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[12-Jun-2023 18:04:02 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/purchaseview.php on line 1
+[12-Jun-2023 18:27:00 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[12-Jun-2023 18:27:00 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[12-Jun-2023 18:27:00 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[12-Jun-2023 18:27:00 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[18-Jun-2023 14:16:18 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[18-Jun-2023 14:16:18 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/guest_invoice.php on line 1
+[19-Jun-2023 17:15:22 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[19-Jun-2023 17:15:22 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 1
+[19-Jun-2023 17:15:22 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[19-Jun-2023 17:15:22 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/report_search.php on line 2
+[21-Jun-2023 03:21:03 America/New_York] PHP Warning:  Use of undefined constant MOD_URL - assumed 'MOD_URL' (this will throw an Error in a future version of PHP) in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[21-Jun-2023 03:21:03 America/New_York] PHP Notice:  Undefined variable: module in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 1
+[21-Jun-2023 03:21:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/reports/views/getpreport.php on line 81

@@ -1,0 +1,2 @@
+CategoryID,ProductName,ProductImage,component,productvat,OffersRate,offerIsavailable,offerstartdate,offerendate,Position,ProductsIsActive,UserIDInserted,UserIDUpdated,UserIDLocked,DateInserted,DateUpdated,DateLocked
+3,testcsv,./application/modules/itemmanage/assets/images/2018-11-06/bur2.jpg,"ground beef,Macaroni,Groun",0,0,0,0000-00-00,0000-00-00,0,1,2,2,2,11/6/2018 11:59,11/6/2018 11:59,11/6/2018 11:59

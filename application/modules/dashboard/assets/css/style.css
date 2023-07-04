@@ -1,0 +1,155 @@
+.f_size_m_bottom_d_block{
+    font-size: 32px;margin-bottom: 36px;display: block;
+}
+.f_size_l_height{
+    font-size:18px;line-height: 28px;
+}
+.c_bc_b_br{
+    color:#8a4246;background-color:#ffedb6;border: 2px dotted #ffd479;;border-radius:5px;padding:15px;margin-bottom:20px;
+}
+blink{
+    -webkit-animation: 2s linear infinite condemned_blink_effect;
+    animation: 2s linear infinite condemned_blink_effect;
+}
+@-webkit-keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+@keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+.t_center{
+    text-align:center;
+}
+/* setting */
+.width_80px{
+    width:80px;
+}
+/* add module */
+.m_height_height{
+    min-height:140px;height:140px;
+}
+.p_left_10px{
+    padding-left:10px;
+}
+/* create system role */
+.checkbox {
+    margin: 0px;
+}
+.checkbox label, .radio label {
+    min-height: 18px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 6px;
+}
+/* edit role */
+.checkbox {
+    margin: 0px;
+}
+.checkbox label, .radio label {
+    min-height: 18px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 6px;
+}
+/* sms/form */
+.bg_b_radious_padding_cursor{
+    background: lightyellow; padding: 1em; box-shadow: 1px 3px 5px #0004; border-radius: 5px; cursor:alias;
+}
+/* sms_template */
+.b_radious_b_p_t_transform_b_shadow{
+    border-radius: 5px; background: lightyellow; padding:1em; text-transform: capitalize; box-shadow: 1px 3px 5px #0004;
+}
+.width_60px{
+    width:60px;
+}
+.display_none{
+    display:none;
+}
+.language_pagination{
+    float:right;
+}
+.height_position{
+    height:340px; position:relative;
+}
+.margin_padding{
+    margin:0;padding:0;
+}
+.height_320_position{
+    height:320px; position:relative;
+}
+
+.height_400{
+    min-height:400px;
+}
+@media(min-width: 1200px){
+    .col-cxl-4{
+      max-width: 50%;
+      flex: 0 0 50%;
+    }
+}
+
+@media(min-width: 1400px){
+  .col-cxl-4{
+      max-width: 33.333333%;
+      flex: 0 0 33.333333%;
+  }
+  
+}
+.prints {
+    background-color: #31b404 !important;
+    color: #fff !important;
+    background-image: none !important;
+    border: 1px solid #31b404 !important;
+}
+.col-role-label {
+    padding-top: calc(0.2rem - 1px * 2);
+    padding-bottom: calc(.7rem - 1px * 2);
+    margin-bottom: 0;
+    text-align: right;
+}
+.checkbox {
+    margin: 0px;
+}
+
+.checkbox label,
+.radio label {
+    min-height: 18px;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    padding: 6px;
+}
+
+.gallery-inp-hi{
+    padding-top: 8px;
+}
+.slider-img-hi{
+    padding-top: 3px;
+}
+.gallery-inp-pad{
+    padding-top: 3px;
+}
+.gallery-x{
+    margin-top: 8px;
+}

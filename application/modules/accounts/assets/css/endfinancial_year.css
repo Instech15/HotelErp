@@ -1,0 +1,8 @@
+.autoupdate-error-message {
+    color: #8a4246;
+    background-color: #ffedb6;
+    border: 2px dotted #ffd479;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}

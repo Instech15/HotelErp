@@ -1,0 +1,10 @@
+@keyframes anim_opa {
+    50%  {opacity: 0.2}
+  }
+  .navbar-nav li .lang_box{
+      line-height: 36px;
+      color: #374767;
+  }
+  .navbar-nav li .lang_options{
+      min-width: 90px;    
+  }

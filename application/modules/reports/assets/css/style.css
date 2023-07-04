@@ -1,0 +1,47 @@
+.sectionfull{width:100%; float:left;}
+.d_block{
+    display: inline-block;
+}
+.m_top{
+    margin-top:10px;
+}
+.f_right_f_size_14px{
+    float:right; font-size:14px;
+}
+.w_m_p_0px{
+    width: 10px;margin: 0px;padding: 0px;
+}
+.margin_display{
+    display: inline-block;margin-left: 5px;
+}
+.imgxs{
+    height: 48px;
+    width: 210px;
+}
+.t_right{
+    text-align: right;
+}
+.t_right_important{
+    text-align:right;font-size:14px !important;
+}
+.p_bottom_m_bottom{
+    padding-bottom:0;margin-bottom: 6px;
+}
+.b_padding_border_font{
+    background:#CCC;padding: 5px 15px;border-radius: 14px; font-size:18px;
+}
+.f_size_22px{
+    font-size:22px;
+}
+.f_size_18px{
+    font-size:18px;
+}
+.p_bootom{
+    padding-bottom:2px;
+}
+.margin_20px{
+    margin: 20px;
+}
+.booking_pagination{
+    float:right;
+}

@@ -1,0 +1,44 @@
+[15-May-2023 09:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php on line 6
+[10-Jun-2023 15:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php on line 6
+[10-Jun-2023 15:15:29 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailslist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailslist.php on line 2
+[10-Jun-2023 15:19:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilityedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilityedit.php on line 6
+[10-Jun-2023 15:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitylist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitylist.php on line 2
+[10-Jun-2023 15:46:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomsizeedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomsizeedit.php on line 6
+[10-Jun-2023 16:03:26 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_facilities/views/roomsizelist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomsizelist.php on line 2
+[10-Jun-2023 17:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitylist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitylist.php on line 2
+[12-Jun-2023 21:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailslist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailslist.php on line 2
+[13-Jun-2023 04:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open_multipart() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilitydetailsedit.php on line 6
+[15-Jun-2023 08:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function form_open() in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilityedit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricssvi/public_html/application/modules/room_facilities/views/roomfacilityedit.php on line 6

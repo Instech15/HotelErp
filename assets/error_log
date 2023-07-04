@@ -1,0 +1,12 @@
+[10-Apr-2023 11:01:41 America/New_York] PHP Warning:  gzinflate(): data error in /home/bricssvi/public_html/assets/default.php on line 1
+[15-Apr-2023 12:06:00 America/New_York] PHP Warning:  gzinflate(): data error in /home/bricssvi/public_html/assets/default.php on line 1
+[28-Apr-2023 03:26:08 America/New_York] PHP Warning:  gzinflate(): data error in /home/bricssvi/public_html/assets/default.php on line 1
+[20-May-2023 09:43:07 America/New_York] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/bricssvi/public_html/assets/default.php on line 22
+[20-May-2023 09:43:27 America/New_York] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/bricssvi/public_html/assets/default.php on line 22
+[20-May-2023 09:47:49 America/New_York] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/bricssvi/public_html/assets/default.php on line 22
+[20-May-2023 10:17:35 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
+[20-May-2023 10:17:46 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
+[20-May-2023 10:17:49 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
+[20-May-2023 10:18:04 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
+[20-May-2023 10:18:58 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
+[20-May-2023 10:21:01 America/New_York] PHP Notice:  Undefined index: myip in /home/bricssvi/public_html/assets/default.php on line 21
